@@ -1,4 +1,4 @@
-This repository contains projects written in high level programming languages eg. Python as part of the ALX-Holberton Software Engineering Programme.
+This repository contains projects written in high level programming languages eg. Python as part of the ALX Software Engineering Programme.
 
 # About
 

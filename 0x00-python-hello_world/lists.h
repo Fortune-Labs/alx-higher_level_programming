@@ -1,4 +1,4 @@
-#ifndef LISTS_H
+pip install --upgrade pippip install --upgrade pip#ifndef LISTS_H
 #define LISTS_H
 
 #include <stdlib.h>

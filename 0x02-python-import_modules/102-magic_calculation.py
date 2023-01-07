@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 102-magic_calculation.py
-#Fortunatus Wulnye
+# Fortunatus Wulnye
 
 
 def magic_calculation(a, b):

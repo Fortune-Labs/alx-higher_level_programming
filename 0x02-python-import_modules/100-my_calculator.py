@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 100-my_calculator.py
-#Fortunatus Wulnye
+# Fortunatus Wulnye
 
 if __name__ == "__main__":
     """Handle basic arithmetic operations."""

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # calculator.py
-#Fortunatus Wulnye
+# Fortunatus Wulnye
 
 def add(a, b):
     """My addition function

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 0-lookup.py
-https://www.archspm.org/faith-and-discipleship/catholic-faith/how-do-i-avoid-misusing-gods-name/
+# Fortunatus Wulnye
 """Defines an object attribute lookup function."""
 
 

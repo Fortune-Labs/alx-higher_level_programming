@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 0-read_file.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Fortunatus Wulnye
 """Defines a text file-reading function."""
 
 
